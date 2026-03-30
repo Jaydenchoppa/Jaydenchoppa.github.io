@@ -10,11 +10,11 @@ I'm a recent **ICT Applications Development** graduate from the Cape Peninsula U
 - 📍 Based in Cape Town, South Africa
 - 📧 jaydenavontuur19@gmail.com
 - 📱 081 377 0794
-- 🌱 Currently exploring IoT, Project Management, and Information Systems
+- 🌱 Currently exploring IoT, Project Management, Domain-Driven Design in Java and Information Systems
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 | Category | Technologies |
 |---|---|
@@ -25,9 +25,9 @@ I'm a recent **ICT Applications Development** graduate from the Cape Peninsula U
 
 ---
 
-## 💼 Projects
+## Projects
 
-### 📋 Student Enrolment System
+### Student Enrolment System
 > *September 2025 – October 2025*
 
 A **Java** client-server application that allows students to enrol in courses. Enrolment data is stored in a **Derby database**, and the system includes user authentication with separate **admin** and **student** roles.
@@ -39,7 +39,7 @@ A **Java** client-server application that allows students to enrol in courses. E
 
 ---
 
-### 🏠 ResFinder — Student Accommodation Finder App
+### ResFinder — Student Accommodation Finder App
 > *March 2025 – October 2025*
 
 A desktop application built with **Java Swing**, developed as part of the PRT262S Project 2 (Application Development) subject at CPUT. The app helps students find suitable accommodation near campus.
@@ -50,7 +50,7 @@ A desktop application built with **Java Swing**, developed as part of the PRT262
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Diploma in ICT Applications Development
 **Cape Peninsula University of Technology** | *February 2024 – Present*
@@ -73,10 +73,4 @@ A desktop application built with **Java Swing**, developed as part of the PRT262
 
 ---
 
-## 📊 GitHub Stats
-
-![Jayden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
-
-*Thanks for visiting my profile! Feel free to check out my repositories below.* 🚀
+*Thanks for visiting my profile! Feel free to check out my repositories below.*🚀
