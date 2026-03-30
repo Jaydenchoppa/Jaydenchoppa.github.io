@@ -1,10 +1,10 @@
-# Hi there, I'm Jayden Avontuur 👋
+# Hi there, I'm Jayden Avontuur 
 
 I'm a recent **ICT Applications Development** graduate from the Cape Peninsula University of Technology (CPUT). I've built real-world projects that have helped me develop practical skills and a solid understanding of software development.
 
 ---
 
-## 🙋 About Me
+## About Me
 
 - 🎓 Diploma in ICT Applications Development — CPUT (2024–present)
 - 📍 Based in Cape Town, South Africa
@@ -73,4 +73,4 @@ A desktop application built with **Java Swing**, developed as part of the PRT262
 
 ---
 
-*Thanks for visiting my profile! Feel free to check out my repositories below.*🚀
+*Thanks for visiting my profile! Feel free to check out my repositories.*
