@@ -73,4 +73,9 @@ A desktop application built with **Java Swing**, developed as part of the PRT262
 
 ---
 
+### My Mock Interview
+<video width="700" controls>
+  <source src="Mock Interview For Prp.mp4" type="video/mp4">
+</video>
+
 *Thanks for visiting my profile! Feel free to check out my repositories.*
