@@ -76,83 +76,37 @@ A desktop application built with **Java Swing**, developed as part of the PRT262
 
 ## Mock Interview Reflection (STAR Method)
 
-#### Question 1: What are you passionate about?
+**Situation:** I participated in a mock interview as part of my work readiness training for PRP370S.
 
-**Situation:**
-During my mock interview for PRP370S, I was asked to speak about my personal passions and interests.
+**Task:** Answer interview questions confidently and professionally to demonstrate my readiness for the workplace.
 
-**Task:**
-I needed to communicate my enthusiasm for the ICT field in an authentic and relatable way that connected my personal interests to my career path.
+**Action:** I answered questions about my passion for technology, how I manage stress through exercise and hobbies, and how I prioritized tasks during a busy exam period while also handling an unreliable group project.
 
-**Action:**
-I spoke about my genuine passion for technology and computers in general. I explained that I get excited by anything that involves technology, even outside of formal study — such as remote-controlled devices and gadgets. I also mentioned how my interest in technology developed from a young age through my social environment and curiosity.
-
-**Result:**
-I was able to express my passion confidently and authentically. This helped me come across as genuinely interested in the ICT field rather than just reciting a prepared answer, which I believe made a positive impression during the interview.
-
----
-
-#### Question 2: How do you handle stress?
-
-**Situation:**
-I was asked how I manage stress, which is a common and important question in job interviews, especially in the fast-paced ICT industry.
-
-**Task:**
-I needed to demonstrate self-awareness and show that I have healthy, effective coping strategies when dealing with pressure.
-
-**Action:**
-I explained my view that stress in moderation is manageable and even useful, but that the key is staying in control of it. I shared that my personal stress-relief strategies include exercising, reading, playing video games, and listening to podcasts — activities that take my mind off the problem temporarily. I also mentioned that after stepping away, I return to the challenge with a fresh perspective and try to approach it differently.
-
-**Result:**
-I was able to articulate a balanced and honest answer that showed emotional maturity. I demonstrated that I don't avoid stress but instead manage it actively, which is an important quality for any workplace environment.
-
----
-
-#### Question 3: Give an example of a time you had to prioritize certain tasks over others?
-
-**Situation:**
-Towards the end of last year, I faced a particularly demanding period where I had final exams and multiple assignment deadlines across all my modules at the same time.
-
-**Task:**
-I needed to manage my time effectively and decide which tasks to tackle first in order to submit everything on time without compromising quality.
-
-**Action:**
-I assessed all my outstanding tasks and identified the ones that were most difficult and would take the most time. I tackled those first, working through nights and weekends to make progress. Once the most demanding tasks were nearly complete, I shifted focus to the remaining work. I also faced an additional challenge in my ADP group project — my group of three had become unreliable, leaving me to handle the backend, server, and related components largely on my own. I pushed through and completed it, which also gave me valuable hands-on learning experience.
-
-**Result:**
-I successfully submitted all my assignments and completed my exams. Despite the pressure of an underperforming group and a heavy workload, I managed to deliver my work. The experience taught me how to stay calm under pressure, make strategic decisions about task prioritization, and take ownership even when others don't pull their weight.
+**Result:** The experience built my confidence and gave me a realistic preview of job interviews, highlighting areas I do well and areas I can still improve.
 
 ---
 
 ## Markdown Reflection (STAR Method)
 
-**Situation:**
-For my Project Presentation 3 assessment, I was required to build a digital portfolio using GitHub and present my work readiness in a structured, web-readable format using Markdown.
+**Situation:** I had to build a digital portfolio using GitHub for my PRP370S assessment.
 
-**Task:**
-My responsibility was to code my entire portfolio — including my CV, project descriptions, skills table, and personal bio — using GitHub Flavoured Markdown (GFM), ensuring it was well-formatted, readable, and professional.
+**Task:** Code my entire portfolio using GitHub Flavoured Markdown (GFM).
 
-**Action:**
-I researched Markdown syntax and GitHub Flavoured Markdown features such as headers, tables, bold/italic text, bullet lists, links, and horizontal rules. I applied these throughout my `README.md` file to structure my CV, skills, and project sections clearly. I used tables to display my technical skills and blockquotes to highlight dates for my projects.
+**Action:** I researched Markdown syntax and applied features like headers, tables, bullet lists, and links throughout my `README.md` file.
 
-**Result:**
-My portfolio rendered cleanly on GitHub and GitHub Pages, presenting a professional and organised layout. I gained a strong understanding of how Markdown is used by developers for documentation and communication, and I can now confidently use it in future repositories and collaborative projects.
+**Result:** My portfolio rendered cleanly and professionally on GitHub Pages, and I now feel confident using Markdown in future projects.
 
 ---
 
 ## GitHub Pages Reflection (STAR Method)
 
-**Situation:**
-After completing my portfolio content in Markdown on GitHub, I needed to make it publicly accessible as a live website for my PRP370S assessment submission.
+**Situation:** I needed to deploy my portfolio publicly for my PRP370S submission.
 
-**Task:**
-My task was to configure and deploy my GitHub repository to GitHub Pages so that my portfolio could be accessed via a public URL and submitted through Blackboard as proof of completion.
+**Task:** Configure and publish my GitHub repository using GitHub Pages.
 
-**Action:**
-I set up my GitHub repository and enabled GitHub Pages through the repository settings, selecting the correct branch to deploy from. I verified that my `README.md` content was rendering correctly as a live webpage and tested the public URL to ensure everything was accessible and displayed as intended.
+**Action:** I enabled GitHub Pages in my repository settings, selected the correct branch, and verified everything rendered correctly on the live URL.
 
-**Result:**
-My portfolio was successfully published and is live at [https://jaydenchoppa.github.io/](https://jaydenchoppa.github.io/). This process taught me how developers host and share projects publicly without needing a separate hosting service, and gave me practical experience with deployment workflows that will be valuable in my career.
+**Result:** My portfolio is live at [https://jaydenchoppa.github.io/](https://jaydenchoppa.github.io/). I gained practical experience with deployment that will be valuable in my career.
 
 ---
 
