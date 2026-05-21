@@ -13,8 +13,9 @@ I'm a recent **ICT Applications Development** graduate from the Cape Peninsula U
 ---
 
 ## Skills
+
 | Category | Technologies |
-|---|---|
+| --- | --- |
 | **Languages** | Java, Python, HTML, CSS, JavaScript |
 | **Database** | MySQL, Apache Derby |
 | **Design** | UI/UX Design |
@@ -73,7 +74,7 @@ A desktop application built with **Java Swing**, developed as part of the PRT262
   <source src="Mock Interview For Prp.mp4" type="video/mp4">
 </video>
 
-### Mock Interview Reflection (STAR Method)
+## Mock Interview Reflection (STAR Method)
 
 #### Question 1: What are you passionate about?
 
